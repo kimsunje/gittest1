@@ -7,14 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-<<<<<<< HEAD
-	test^^^ pm  
-=======dfdfdfdf
-	test^^^@@@@ 사원
->>>>>>> branch 'master' of https://github.com/kimsunje/gittest1.git
-=======
-	test^^^@@@@ 사원@@
->>>>>>> refs/remotes/origin/orderjob
+
 </body>
 </html>
