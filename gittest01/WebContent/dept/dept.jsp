@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 	test^^^ pm  
+=======dfdfdfdf
+	test^^^@@@@ »ç¿ø
+>>>>>>> branch 'master' of https://github.com/kimsunje/gittest1.git
 </body>
 </html>
